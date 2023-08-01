@@ -19,6 +19,4 @@ I plan to keep my video open Monday (Aug 14) through Sunday (Aug 20).
 
 > Presentation schedule: 09:00-12:15, Thursday, Aug 17.
 
-> [ICBP 2023] (https://www.icbp2023.org/): International Conference on Biological Physics, Aug 14-18, 2023
-
-> | Seoul Olympic Parktel, Seoul, Korea
+> [ICBP 2023] (https://www.icbp2023.org/): International Conference on Biological Physics, Aug 14-18, 202| Seoul Olympic Parktel, Seoul, Korea
