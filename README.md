@@ -1,5 +1,7 @@
 # ICBP 2023 presentation video (Link)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthereexist%2FICBP-2023%2Ftree%2Fmain&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Thank you for entering my GitHub.
 
 You can watch my presentation video soon. (I will upload my video soon.)
