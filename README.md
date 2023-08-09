@@ -4,9 +4,9 @@
 
 Thank you for entering my GitHub.
 
-You can watch my presentation video soon. (I will upload my video soon.)
+You can watch my presentation [here] (https://youtu.be/i1DXQelzODg)
 
-I plan to keep my video open Monday (Aug 14) through Sunday (Aug 20).
+I plan to keep my video open until August 20.
 
 
 ## Information
