@@ -4,7 +4,7 @@
 
 Thank you for entering my GitHub.
 
-You can watch my presentation [here] (https://youtu.be/i1DXQelzODg)
+You can watch my presentation [here](https://youtu.be/i1DXQelzODg) (https://youtu.be/i1DXQelzODg)
 
 I plan to keep my video open until August 20.
 
