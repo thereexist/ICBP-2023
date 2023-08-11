@@ -15,7 +15,7 @@ I plan to keep my video open until August 20.
 
 > 1-1125: Thickness-dependent Diffusional Heterogeneity of Water Molecules Confined between Lipid Bilayers.
 
-> Presenter: Minho Lee
+> Presenter: Minho Lee (https://cdlc.cau.ac.kr)
 
 > Presentation schedule: 09:00-12:15, Thursday, Aug 17.
 
